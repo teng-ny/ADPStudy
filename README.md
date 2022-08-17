@@ -1,4 +1,3 @@
-# ADPStudy
 # study
 - Adp 실기 모의고사 풀이
   - ADP 데이터 분석 전문가(데이터 에듀) - 3회
