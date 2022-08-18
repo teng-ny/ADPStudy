@@ -1,5 +1,5 @@
 # 목차
-- Adp 실기 모의고사 풀이
+- Adp 실기 문제
   - [kaggle 기출문제 복원 풀이](https://www.kaggle.com/code/kukuroo3/solution-python-p1/notebook)
   - [통계문제 기출(문제만)](https://didalsgur.tistory.com/87?category=750762)
   - [기출 모음(문제만)](https://lovelydiary.tistory.com/381)
