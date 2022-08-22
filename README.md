@@ -1,4 +1,5 @@
 # :pencil: ADP 실기 목차
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fteng-ny%2FADPStudy&count_bg=%2305AEEF&title_bg=%23555555&icon=waze.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 - Adp 실기 문제
   - [kaggle 기출문제 복원 풀이](https://www.kaggle.com/code/kukuroo3/solution-python-p1/notebook)
   - [통계문제 기출(문제만)](https://didalsgur.tistory.com/87?category=750762)
