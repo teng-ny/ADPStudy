@@ -3,7 +3,7 @@
 
 ** 문제풀 때 소수점 자리수 확인 잘하기(반올림), 성능에 집착하지 말것
 - Adp 실기 문제
-  - [kaggle 기츨](https://www.kaggle.com/kukuroo3/discussion)
+  - [kaggle 기출](https://www.kaggle.com/kukuroo3/discussion)
   - [통계문제 기출(문제만)](https://didalsgur.tistory.com/87?category=750762)
   - [기출 모음(문제만)](https://lovelydiary.tistory.com/381)
   - 파이썬 한권으로 끝내기 기출
