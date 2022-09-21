@@ -7,6 +7,7 @@
   - [통계문제 기출(문제만)](https://didalsgur.tistory.com/87?category=750762)
   - [기출 모음(문제만)](https://lovelydiary.tistory.com/381)
   - 파이썬 한권으로 끝내기 기출
+  - kaggle 예제 풀이
 
 - 예측/분류 알고리즘 공부
 - 통계 공부
