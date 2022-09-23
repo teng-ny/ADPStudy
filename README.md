@@ -1,4 +1,10 @@
 # :pencil: ADP 실기 목차
+
+:pushpin: ADP 실기 25회 응시(22.06.18)
+
+:pushpin: ADP 실기 26회 응시(22.09.25)
+
+
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fteng-ny%2FADPStudy&count_bg=%2305AEEF&title_bg=%23555555&icon=waze.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ** 문제풀 때 소수점 자리수 확인 잘하기(반올림), 성능에 집착하지 말것
@@ -13,10 +19,6 @@
 - 통계 공부
   - 누구나 파이썬 통계분석(신뢰구간)
 - 참고 블로그
-  - [전범위](https://github.com/H2O-500ml/ADP)
+  - [전범위](https://github.com/H2O-500ml/ADP) ↑
 
-↑
 
-:pushpin: ADP 실기 25회 응시(22.06.18)
-
-:pushpin: ADP 실기 26회 응시(22.09.25)
