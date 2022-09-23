@@ -15,5 +15,7 @@
 - 참고 블로그
   - [전범위](https://github.com/H2O-500ml/ADP)
 
-↑ ADP 실기 25회 응시
-↑ ADP 실기 26회 응시
+↑
+:pushpin: ADP 실기 25회 응시
+
+:pushpin: ADP 실기 26회 응시
