@@ -17,6 +17,6 @@
 
 ↑
 
-:pushpin: ADP 실기 25회 응시 
+:pushpin: ADP 실기 25회 응시(22.06.18)
 
-:pushpin: ADP 실기 26회 응시
+:pushpin: ADP 실기 26회 응시(22.09.25)
