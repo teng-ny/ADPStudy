@@ -5,8 +5,8 @@
 :pushpin: ADP 실기 26회 응시(22.09.25)
 
 :pushpin: ADP 실기 27회 응시 예정(22.11.26)
-/
-/
+
+
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fteng-ny%2FADPStudy&count_bg=%2305AEEF&title_bg=%23555555&icon=waze.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ** 문제풀 때 소수점 자리수 확인 잘하기(반올림), 성능에 집착하지 말것
