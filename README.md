@@ -6,10 +6,12 @@
 
 :pushpin: ADP 실기 27회 응시 예정(22.11.26)
 
+** 문제풀 때 소수점 자리수 확인 잘하기(반올림), 성능에 집착하지 말것
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fteng-ny%2FADPStudy&count_bg=%2305AEEF&title_bg=%23555555&icon=waze.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-** 문제풀 때 소수점 자리수 확인 잘하기(반올림), 성능에 집착하지 말것
+** [경고무시코드](https://github.com/teng-ny/ADPStudy/blob/main/ADP%EC%8B%9C%ED%97%98%EB%B3%B5%EA%B8%B0/%EA%B2%BD%EA%B3%A0%EB%AC%B4%EC%8B%9C%20%EC%BD%94%EB%93%9C.ipynb)
+
 - Adp 실기 문제
   - [kaggle 기출](https://www.kaggle.com/kukuroo3/discussion)
   - [통계문제 기출(문제만)](https://didalsgur.tistory.com/87?category=750762)
