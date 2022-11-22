@@ -12,6 +12,8 @@
 
 ** [경고무시코드](https://github.com/teng-ny/ADPStudy/blob/main/ADP%EC%8B%9C%ED%97%98%EB%B3%B5%EA%B8%B0/%EA%B2%BD%EA%B3%A0%EB%AC%B4%EC%8B%9C%20%EC%BD%94%EB%93%9C.ipynb)
 
+** [변수 시각화](https://github.com/teng-ny/ADPStudy/blob/main/%EB%B6%84%EB%A5%98%2C%EC%98%88%EC%B8%A1%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/%EB%B3%80%EC%88%98%EC%8B%9C%EA%B0%81%ED%99%94(histogram%2C%20countplot).ipynb)
+
 - Adp 실기 문제
   - [kaggle 기출](https://www.kaggle.com/kukuroo3/discussion)
   - [통계문제 기출(문제만)](https://didalsgur.tistory.com/87?category=750762)
