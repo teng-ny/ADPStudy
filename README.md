@@ -14,6 +14,10 @@
 
 ** [변수 시각화](https://github.com/teng-ny/ADPStudy/blob/main/%EB%B6%84%EB%A5%98%2C%EC%98%88%EC%B8%A1%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/%EB%B3%80%EC%88%98%EC%8B%9C%EA%B0%81%ED%99%94(histogram%2C%20countplot).ipynb)
 
+** [단계적선택법](https://github.com/teng-ny/ADPStudy/blob/main/%ED%86%B5%EA%B3%84%EB%B6%84%EC%84%9D/%ED%86%B5%EA%B3%84%20%EC%97%B0%EC%8A%B5/%ED%86%B5%EA%B3%84%20%EC%97%B0%EC%8A%B5-3.ipynb)
+
+** [전진선택법/후진제거법](https://github.com/teng-ny/ADPStudy/blob/main/%ED%86%B5%EA%B3%84%EB%B6%84%EC%84%9D/%ED%86%B5%EA%B3%84%20%EC%97%B0%EC%8A%B5/%ED%86%B5%EA%B3%84%20%EC%97%B0%EC%8A%B5-4.ipynb)
+
 - Adp 실기 문제
   - [kaggle 기출](https://www.kaggle.com/kukuroo3/discussion)
   - [통계문제 기출(문제만)](https://didalsgur.tistory.com/87?category=750762)
