@@ -1,10 +1,13 @@
 # :pencil: ADP 실기 목차
 
 :pushpin: ADP 실기 25회 응시(22.06.18)
+- [시험복기](https://xod22.tistory.com/132)
 
 :pushpin: ADP 실기 26회 응시(22.09.25)
+- [시험복기](https://xod22.tistory.com/145)
 
 :pushpin: ADP 실기 27회 응시(22.11.26)
+- [시험복기](https://xod22.tistory.com/148)
 
 :pushpin: ADP 실기 28회 응시 예정(23.03.12)
 
