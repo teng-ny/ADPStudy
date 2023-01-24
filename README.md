@@ -1,15 +1,16 @@
-# :pencil: ADP 실기 목차
+# :pencil: ADP 실기 목차  
+[*2022년 ADP 준비에 대한 회고*](https://xod22.tistory.com/155)  
 
 :pushpin: ADP 실기 25회 응시(22.06.18)
-- [시험복기](https://xod22.tistory.com/132)
+- [시험복기](https://xod22.tistory.com/132)  
 
 :pushpin: ADP 실기 26회 응시(22.09.25)
-- [시험복기](https://xod22.tistory.com/145)
+- [시험복기](https://xod22.tistory.com/145)  
 
 :pushpin: ADP 실기 27회 응시(22.11.26)
-- [시험복기](https://xod22.tistory.com/148)
+- [시험복기](https://xod22.tistory.com/148)  
 
-:pushpin: ADP 실기 28회 응시 예정(23.03.12))
+:pushpin: ADP 실기 28회 응시 예정(23.03.12))  
 
 ** 문제풀 때 소수점 자리수 확인 잘하기(반올림), 성능에 집착하지 말것
 
