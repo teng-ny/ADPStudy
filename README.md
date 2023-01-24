@@ -1,5 +1,5 @@
 # :pencil: ADP 실기 목차  
-[*2022년 ADP 준비에 대한 회고*](https://xod22.tistory.com/155)  
+[*2022년 ADP 공부에 대한 회고*](https://xod22.tistory.com/155)  
 
 :pushpin: ADP 실기 25회 응시(22.06.18)
 - [시험복기](https://xod22.tistory.com/132)  
